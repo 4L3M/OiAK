@@ -1,3 +1,0 @@
-C:/Users/Amelia/CLionProjects/OiAK/cmake-build-debug/CMakeFiles/OiAK.dir
-C:/Users/Amelia/CLionProjects/OiAK/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Amelia/CLionProjects/OiAK/cmake-build-debug/CMakeFiles/rebuild_cache.dir
