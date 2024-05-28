@@ -1,0 +1,3 @@
+C:/Users/grons/Desktop/Studia/4 sem/oiak/oiak_etap2/cmake-build-debug/CMakeFiles/oiak_etap2.dir
+C:/Users/grons/Desktop/Studia/4 sem/oiak/oiak_etap2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/grons/Desktop/Studia/4 sem/oiak/oiak_etap2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
