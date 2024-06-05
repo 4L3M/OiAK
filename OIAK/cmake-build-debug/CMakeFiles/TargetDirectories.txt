@@ -1,0 +1,3 @@
+C:/Users/melamela/CLionProjects/OIAK/cmake-build-debug/CMakeFiles/OIAK.dir
+C:/Users/melamela/CLionProjects/OIAK/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/melamela/CLionProjects/OIAK/cmake-build-debug/CMakeFiles/rebuild_cache.dir
